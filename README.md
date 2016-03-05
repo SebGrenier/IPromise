@@ -1,2 +1,2 @@
-# IPromise
-Intelligent Promisea
+# I Promise
+Intelligent Promises
