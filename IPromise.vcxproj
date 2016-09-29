@@ -118,7 +118,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="src\BaseFunc.hpp" />
     <ClInclude Include="src\Promise.hpp" />
+    <ClInclude Include="src\TemplateFunc.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
